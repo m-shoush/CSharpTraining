@@ -1,0 +1,4 @@
+C:\Users\Mohammad\C Sharp\CsharpProjects\Guidedproject\obj\Debug\net8.0\Guidedproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\C Sharp\CsharpProjects\Guidedproject\obj\Debug\net8.0\Guidedproject.AssemblyInfoInputs.cache
+C:\Users\Mohammad\C Sharp\CsharpProjects\Guidedproject\obj\Debug\net8.0\Guidedproject.AssemblyInfo.cs
+C:\Users\Mohammad\C Sharp\CsharpProjects\Guidedproject\obj\Debug\net8.0\Guidedproject.csproj.CoreCompileInputs.cache
